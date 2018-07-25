@@ -1,0 +1,26 @@
+# Packages
+/node_modules
+/bower_components
+/vendor
+
+# Unwated files and directories
+/public/hot
+/public/storage
+/storage/*.key
+
+# IDEs
+/.idea
+/.vscode
+/.vagrant
+/.editorconfig
+
+# Configurations
+Homestead.json
+Homestead.yaml
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Environment
+.env
